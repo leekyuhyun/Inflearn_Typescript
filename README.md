@@ -49,14 +49,13 @@ root/
 
 ## 🚀 과제 진행도
 
-| 　　 　이름<br>목차　                       | [김선빈](https://github.com/toran1678) | [이규현](https://github.com/leekyuhyun) | [정현구](https://github.com/lhjjhg) |
-| ------------------------------------------- | -------------------------------------- | --------------------------------------- | ----------------------------------- |
-| 타입스크립트 개론 & 기본                    |                                        |                                         |                                     |
-| 타입스크립트 이해하기                       |                                        |                                         |                                     |
-| 함수와 타입 & 인터페이스                    |                                        |                                         |                                     |
-| 클래스 & 제네릭                             |                                        |                                         |                                     |
-| 타입 조작하기 & 조건부 타입 & 유틸리티 타입 |                                        |                                         |                                     |
-| 리액트와 타입스크립트                       |                                        |                                         |                                     |
+| 　　 　이름<br>목차　        | [김선빈](https://github.com/toran1678) | [이규현](https://github.com/leekyuhyun) | [정현구](https://github.com/lhjjhg) | [김민한](https://github.com/minari0v0)
+| :- | :- | :- | :- | :- |
+| 타입스크립트 개론 & 기본 |  |  |  |  |
+| 타입스크립트 이해하기 |  |  |  |  |
+| 함수와 타입 & 인터페이스 & 클래스 |  |  |  |  |
+| 제네릭 & 타입 조작하기 & 조건부 타입 |  |  |  |  |
+| 유틸리티 타입 & 리액트와 타입스크립트 |  |  |  |  |
 
 ## 👥 스터디원 정보
 
@@ -65,3 +64,4 @@ root/
 | 이규현 | [@leekyuhyun](https://github.com/leekyuhyun) |
 | 김선빈 | [@toran1678](https://github.com/toran1678)   |
 | 정현구 | [@lhjjhg](https://github.com/lhjjhg)         |
+| 김민한 | [@minari0v0](https://github.com/minari0v0) 
